@@ -42,7 +42,8 @@ Submission Requirements:
 - Students must submit the GitHub repository link along with their completed project
 - Create one minit working video upload on YouTube and share that link
  
-Timeline: As discussed in class
+Timeline: As discussed in class.
+
 Assessment Criteria:
 - Completion of basic features (user authentication, task management).
 - Code organization and readability.
