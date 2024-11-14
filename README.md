@@ -4,6 +4,8 @@ A simple To Do app created using Flutter as Frontend and Back4App as Backend.
 This repository is created as part of the assignment for the subject Cross Platform Application Development (SEZG585) under BITS Pilani WILP.
 This assignment belongs to **HARSHIT JAIN (2023MT93342)**.
 
+Video link: https://youtu.be/uhS5-xHYYRc
+
 Below are the requirements:
 ---
 Project Name: QuickTask
